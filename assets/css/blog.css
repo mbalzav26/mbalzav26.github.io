@@ -49,12 +49,13 @@ main {
 
 #bio {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 #img-wrapper img {
   border-radius: 50%;
-  max-width: 100px;
+  max-width: 220px;
 }
 #bio-wrapper {
   margin-left: 1rem;
