@@ -3,7 +3,15 @@
     <img src="/images/foto_mateo.jpeg" alt="" />
   </section>
   <section id="bio-wrapper">
-    <div id="text-wrapper">{{site.data.author.description}}</div>
+    <div>
+      <br />
+      Hello everyone, my name is Mateo de Jesus Balza Valega, I am twenty years old, I live in Soledad and I am currently in my third semester of systems engineering, in my free time I like to spend time with family and friends, watch movies and series, I also study self-taught on platforms like Udemy and build web pages and other software.
+    </div>
+  </section>
+</section>
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; flex-direction: column;">
+    <div id="text-wrapper"><br/>{{site.data.author.description}}</div>
     <div id="social-wrapper">
       {% for i in site.data.author.contact %}
       <a href="{{i.url}}" target="_blank">
@@ -11,5 +19,7 @@
       </a>
       {%endfor%}
     </div>
-  </section>
-</section>
+  </div>
+</div>
+
+
