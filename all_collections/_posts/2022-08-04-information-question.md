@@ -10,7 +10,7 @@ the ***information questions*** are information request questions, they usually 
 
 ![img](/images/img-whq.png)
 
-## About class
+## About class:
 
 During the class our teacher explained the use of the ***information questions*** and conducted activities in which all classmates participated.
 

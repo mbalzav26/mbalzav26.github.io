@@ -3,7 +3,7 @@ layout: post
 title: Meet someone new
 date: 2022-08-02
 ---
-## About class
+## About class:
 
 the class was very dynamic, because most of the students participated in it, it consisted of two activities
 

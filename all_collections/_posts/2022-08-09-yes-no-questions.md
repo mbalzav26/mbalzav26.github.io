@@ -3,7 +3,7 @@ layout: post
 title: Yes / No questions
 date: 2022-08-09
 ---
-## About class
+## About class:
 
 This is a practical exercise on the use of the ***Yes/No questions*** based on the book ***FLAGSHIP 4***.
 

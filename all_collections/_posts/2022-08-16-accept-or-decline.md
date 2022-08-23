@@ -6,7 +6,7 @@ date: 2022-08-16
 
 ![imagen](/images/accept.jpg)
 
-## ***About class***
+## ***About class:***
 
 This is a practical exercise on the use of the ***Accept or decline*** based on the book ***FLAGSHIP 4***,I worked with my classmate Girleidys Castro on a conversation to practice what was explained in class.
 
