@@ -15,4 +15,4 @@ Make a summary with our words about stories by Mark Zupan or Bethany Hamilton.
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaZwfUPiY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaZwfUPiY&#x2F;view?utm_content=DAFaZwfUPiY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diseño</a> de Mateo Balza
+<!--<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaZwfUPiY&#x2F;view?utm_content=DAFaZwfUPiY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diseño</a> de Mateo Balza-->
