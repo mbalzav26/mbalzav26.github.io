@@ -5,4 +5,5 @@ gem "jemoji"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
+gem 'nokogiri'
 gem 'webrick'
