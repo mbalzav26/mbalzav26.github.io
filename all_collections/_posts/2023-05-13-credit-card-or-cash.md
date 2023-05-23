@@ -3,6 +3,7 @@ layout: post
 title: Advantages and disadvantages of credit card and cash
 date: 2023-05-13
 ---
+## About activity
 
 Define what are the advantages and disadvantages of credit cards and cash
 
