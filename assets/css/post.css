@@ -23,7 +23,7 @@
   max-width: 100%;
 }
 
-#img-pre img {
+#img-wrapper img {
   border-radius: 50%;
   max-width: 220px;
 }
