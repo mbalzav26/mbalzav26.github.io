@@ -22,6 +22,12 @@
 * img {
   max-width: 100%;
 }
+#perfil {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 
 #img-wrapper img {
   border-radius: 50%;
