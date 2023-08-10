@@ -1,7 +1,7 @@
 ---
 layout: post
 tittle: Get reacquainted
-date: 2023-07-24
+date: 2023-08-08
 ---
 
 ## Concersation:
